@@ -3,3 +3,4 @@
 <br>
 ps. 또한 코딩을 매우 즐기고 있습니다!!😄
 <div align="center">
+  <div style="border:1px solid #D0D7DE width:100px"></div>
