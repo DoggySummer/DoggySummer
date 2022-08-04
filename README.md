@@ -24,6 +24,4 @@ ps. 또한 코딩을 매우 즐기고 있습니다!!😄
     <a href="[https://turquoise-rule-990.notion.site/5b7d43743b864720b425dd353dd3319c?v=36d44aa32d1d45f38f94f534d0d9a5d8](https://github.com/DoggySummer)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
-  <div position="absolute" top="90%" right="5%">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
