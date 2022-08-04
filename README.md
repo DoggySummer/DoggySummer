@@ -4,4 +4,4 @@
 ps. 또한 코딩을 매우 즐기고 있습니다!!😄
 <div align="center">
   <div style="border:1px solid #D0D7DE width:100px"></div>
-![html;](https://user-images.githubusercontent.com/91588779/182964859-c67c60a0-b5d6-420f-8aaa-914cd1e04ae8.svg)
+<img src="https://img.shields.io/badge/html-#D00000?style=flat-square&logo=html&logoColor=white"/>
