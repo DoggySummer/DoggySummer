@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Yourself&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
 ### 실력있는 프론트엔드 개발자가 되기 위하여 JS, 리액트를 공부하고 있으며 경쟁력을 갖추기 위하여 알고리즘(JS), 리팩터링, CS 등을 스터디를 통하여 공부했습니다.
 <br>
-ps. 또한 코딩을 매우 즐기고 있습니다!!😄*****
+ps. 또한 코딩을 매우 즐기고 있습니다!!😄
+***
 공부중입니다<br>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
