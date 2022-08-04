@@ -4,5 +4,4 @@
 ps. 또한 코딩을 매우 즐기고 있습니다!!😄
 <div align="center">
   <div style="border:1px solid #D0D7DE width:100px"></div>
-<img src="https://img.shields.io/badge/html-#D00000?style=flat-square&logo=html&logoColor=white"/>
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/html-D00000?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
