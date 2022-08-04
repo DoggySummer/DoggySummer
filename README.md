@@ -4,4 +4,4 @@
 ps. 또한 코딩을 매우 즐기고 있습니다!!😄
 <div align="center">
   <div style="border:1px solid #D0D7DE width:100px"></div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Yourself&fontSize=65&animation=fadeIn&fontColor=f2e9e4)![html;](https://user-images.githubusercontent.com/91588779/182964822-547a0bfd-c185-44b4-b7c5-31edddb18206.svg)
+![html;](https://user-images.githubusercontent.com/91588779/182964859-c67c60a0-b5d6-420f-8aaa-914cd1e04ae8.svg)
