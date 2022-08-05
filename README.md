@@ -40,7 +40,8 @@ ps. 또한 코딩을 매우 즐기고 있습니다!!😄
   </a>
 </span>
 
-  ![pieChart](/alone/pieChart.jpg)
+
+<img src="./pieChart.jpg" width="700">
 
 
 노션링크: [NotionLink]
