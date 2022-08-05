@@ -39,8 +39,9 @@ ps. 또한 코딩을 매우 즐기고 있습니다!!😄
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
 </span>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoggySummer&layout=compact)](https://github.com/DoggySummer/github-readme-stats)
+
+  ![pieChart](/alone/pieChart.jpg)
+
 
 노션링크: [NotionLink]
 
