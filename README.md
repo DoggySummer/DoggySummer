@@ -31,7 +31,7 @@ ps. 또한 코딩을 매우 즐기고 있습니다!!😄
   </a>
 </span>
 
-<img src="./pieChart.jpg" width="300" float="right">
+<img src="./pieChart.jpg" width="700" float="right">
 
 노션링크: [NotionLink]
 
