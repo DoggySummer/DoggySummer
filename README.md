@@ -14,24 +14,15 @@ ps. 또한 코딩을 매우 즐기고 있습니다!!😄
 <br>
 </span>
 <span>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 <br>
 </span>
 <span>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</span>
-<br>
-
-## 기록중입니다
-
-
-<br>
-<span>
   <a href="https://turquoise-rule-990.notion.site/5b7d43743b864720b425dd353dd3319c?v=36d44aa32d1d45f38f94f534d0d9a5d8">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
@@ -40,9 +31,7 @@ ps. 또한 코딩을 매우 즐기고 있습니다!!😄
   </a>
 </span>
 
-
-<img src="./pieChart.jpg" width="700">
-
+<img src="./pieChart.jpg" width="300" float="right">
 
 노션링크: [NotionLink]
 
