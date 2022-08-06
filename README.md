@@ -21,7 +21,7 @@ Develop Blog
  
  <br>
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosees&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doggysummer&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
  
 <div align="left">
   ### It became mine...✏️
