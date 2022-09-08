@@ -1,16 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Yourself&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
-### 실력있는 블록체인 프론트엔드 개발자가 되기 위해 블록체인 트랜드 리서칭과 프로그래머로서의 주요 자질이라고 할 수 있는 문제 해결 능력을 키우기 위해서 자료구조, 알고리즘 등을 시간이 날 때마다 공부하고 있습니다.
+### 실력있는 프론트엔드 개발자가 되기 위해 리액트를 공부하고 있으며 프로그래머로서의 주요 자질이라고 할 수 있는 문제 해결 능력을 키우기 위해서 자료구조, 알고리즘 등을 시간이 날 때마다 공부하고 있습니다.
 <br>
 ps. 또한 코딩을 매우 즐기고 있습니다!!😄
 <div align="center">
   
-<img style="width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=bosees&show_icons=true&theme=dracula&hide="/>
- 
+
  ---
-Develop Blog
-  
-<a href="https://velog.io/@yeoungil012">
-  <img style="width:150px;" src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/>
+  ### Portfolio from notion
+<a href="https://turquoise-rule-990.notion.site/4e30bea67c79499d878cade1a5044a3f">
+  <img style="width:150px;" src="https://img.shields.io/badge/notion-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
  
  <br>
@@ -40,6 +38,7 @@ Develop Blog
   <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 
   <br>
+
   <img src="https://img.shields.io/badge/Web3.js & ethers.js-C21325?style=flat-square&logo=Web3.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
