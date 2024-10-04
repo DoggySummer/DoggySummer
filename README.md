@@ -18,9 +18,7 @@ ps. 또한 코딩을 매우 즐기고 있습니다!!😄
  ---
  
  <br>
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doggySummer&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
- 
+
 <div align="left">
  
   ### It became mine...✏️
